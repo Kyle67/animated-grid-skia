@@ -25,6 +25,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fa133f9c-bc1d-4902-bb12-f4642fdd51e6"
+      }
+    },
+    "owner": "kyle67",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/fa133f9c-bc1d-4902-bb12-f4642fdd51e6"
     }
   }
 }
